@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a>Davlat</a> </h1>
-<h3 align="center">AI engineering student and Web developer</h3>
+<h3 align="center">Web developer and a student specializing in AI Engineering.</h3>
 
 - 🌱 I'm studying web application development technologies
 
