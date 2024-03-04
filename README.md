@@ -15,8 +15,8 @@
 <p align="left">
   <a href="https://t.me/dazzv_me" target="blank"><img align="center" src="./icon/tg.svg" alt="tg" height="40" width="40" /></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=davlat.azizov.4712@gmail.com" target="blank"><img align="center" src="./icon/gmail.svg" alt="habr" height="40" width="40" /></a>
-  <a href="https://career.habr.com/dazzv_me" target="blank"><img align="center" src="./icon/habr.svg" alt="habr" height="40" width="40" /></a>
-  <a href="https://vk.com/dazzv_me" target="blank"><img align="center" src="./icon/vk.svg" alt="vk" height="40" width="40" /></a>
+  <a href="https://career.habr.com/dazzv_me" target="blank"><img align="center" src="./icon/habr.svg" alt="habr" height="35" width="40" /></a>
+  <a href="https://vk.com/dazzv_me" target="blank"><img align="center" src="./icon/vk.svg" alt="vk" height="35" width="40" /></a>
 </p>
 
 <details>
