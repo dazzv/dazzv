@@ -5,9 +5,9 @@
 
 - 📄 Хотите больше узнать о моем опыте? [**Habr (Ru)**](https://career.habr.com/dazzv_me)
 
-- 🌍 Ссылка на <a href="https://t.me/dazzv_me" target="blank">резюме</a>
+- 🌍 Ссылка на <a href="https://drive.google.com/file/d/1_0FjWwLPqRuRiqjV2jrZvPWH1A76_VoV/view?usp=sharing" target="blank">резюме</a>
 
-- 🔭 Мой Pet-проект <a href="https://t.me/wa1pper" target="blank">Yaft</a> (mobile-first)
+- 🔭 Мой Pet-проект <a href="https://yaft.netlify.app/" target="blank">Yaft</a> (mobile-first)
   
 - ⚡ Интересный факт обо мне: Я обожаю корги &#128062;
 
