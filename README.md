@@ -3,7 +3,7 @@
 
 - 🌱 Нравится создавать что-то сложное, функциональное, чтобы это все смотрелось удобно и красиво.
 
-- 👨‍💻 посмотреть демоверсии <a href="https://app.netlify.com/teams/dazzv-king/overview" target="blank">моих проектов</a>
+- 👨‍💻 Посмотреть демоверсии <a href="https://app.netlify.com/teams/dazzv-king/overview" target="blank">моих проектов</a>
 
 - 📄 Хотите больше узнать о моем опыте? [**Habr (Ru)**](https://career.habr.com/dazzv_me)
 
@@ -13,7 +13,7 @@
   
 - ⚡ Интересный факт обо мне: Я обожаю корги &#128062;
 
-### Напишите мне:
+### Напишите мне в:
 <p align="left">
   <a href="https://t.me/dazzv_me" target="blank"><img align="center" src="./icon/tg.svg" alt="tg" height="40" width="40" /></a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=davlat.azizov.4712@gmail.com" target="blank"><img align="center" src="./icon/gmail.svg" alt="habr" height="40" width="40" /></a>
