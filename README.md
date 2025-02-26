@@ -3,7 +3,7 @@
 
 - 🌱 Нравится создавать что-то сложное, функциональное, чтобы это все смотрелось удобно и красиво.
 
-- 📄 Хотите больше узнать о моем опыте? [**Habr**](https://career.habr.com/dazzv_me) или <a href="https://drive.google.com/file/d/1_0FjWwLPqRuRiqjV2jrZvPWH1A76_VoV/view?usp=sharing" target="blank">резюме</a>
+- 📄 Хотите больше узнать о моем опыте? [**Мой сайт**](https://dazzvs.netlify.app/#home) или <a href="https://drive.google.com/file/d/1_0FjWwLPqRuRiqjV2jrZvPWH1A76_VoV/view?usp=sharing" target="blank">резюме</a>
 
 - 🔭 Мой Pet-проект <a href="https://yaft.netlify.app/" target="blank">Yaft</a> (mobile-first)
   
